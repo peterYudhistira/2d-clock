@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jam", "ConsoleApp1\Jam.csproj", "{91BEDA40-FE6B-41B9-943E-29860FFB2F55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "..\..\Common\Common.csproj", "{BEB27FB5-D28B-40D9-BCA8-A120BA1CFAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BEDA40-FE6B-41B9-943E-29860FFB2F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BEDA40-FE6B-41B9-943E-29860FFB2F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BEDA40-FE6B-41B9-943E-29860FFB2F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BEDA40-FE6B-41B9-943E-29860FFB2F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB27FB5-D28B-40D9-BCA8-A120BA1CFAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB27FB5-D28B-40D9-BCA8-A120BA1CFAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB27FB5-D28B-40D9-BCA8-A120BA1CFAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB27FB5-D28B-40D9-BCA8-A120BA1CFAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F1150A-056E-4D9C-957D-20E50C9BD30D}
+	EndGlobalSection
+EndGlobal
